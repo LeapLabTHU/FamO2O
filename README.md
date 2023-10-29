@@ -2,7 +2,7 @@
 
 ![image](teaser.svg)
 
-This repository is the official source code for "Train Once, Get a Family: State-Adaptive Balances for Offline-to-Online Reinforcement Learning" [[project page]](https://shenzhi-wang.github.io/NIPS_FamO2O/) [[NeurIPS page]](https://openreview.net/forum?id=vtoY8qJjTR), which has been accepted as a **spotlight** presentation at NeurIPS 2023.
+This repository is the official source code for *Train Once, Get a Family: State-Adaptive Balances for Offline-to-Online Reinforcement Learning* [[project page]](https://shenzhi-wang.github.io/NIPS_FamO2O/) [[NeurIPS page]](https://openreview.net/forum?id=vtoY8qJjTR), which has been accepted as a **spotlight** presentation at NeurIPS 2023. (Primary Contact: [Shenzhi Wang](https://shenzhi-wang.netlify.app/))
 
 This codebase includes:
 
