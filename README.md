@@ -14,7 +14,7 @@ We would greatly appreciate it if you could cite our work!
 ```
 @inproceedings{
 wang2023train,
-title={Single Training Session, Multiple Model Outputs: Dynamic Balancing for Offline-to-Online Reinforcement Learning},
+title={Train Once, Get a Family: State-Adaptive Balances for Offline-to-Online Reinforcement Learning},
 author={Shenzhi Wang and Qisen Yang and Jiawei Gao and Matthieu Gaetan Lin and Hao Chen and Liwei Wu and Ning Jia and Shiji Song and Gao Huang},
 booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
 year={2023},
